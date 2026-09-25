@@ -49,3 +49,4 @@ def delete_user(user_id: int):
         status_code=status.HTTP_404_NOT_FOUND,
         detail="User not found"
     )
+#Ignore
